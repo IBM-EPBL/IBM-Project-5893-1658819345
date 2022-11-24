@@ -1,0 +1,72 @@
+<HTML>
+  <head>
+    <title>Car performance prediction</title>
+    <style>
+      body {
+  background-image: url('pexels-garvin-st-villier-3311574.jpg');
+}
+    </style>
+  </head>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<link href="https://fonts.googleapis.com/css2?family=Girassol&display=swap" rel="stylesheet">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link rel="stylesheet" href="style.css">
+<link rel="shortcut icon" href="favicon.ico">
+<div class="navbar">
+      <section class="title">
+      <h1><p style="font-family: 'Times New Roman', Times, serif">CAR PERFORMANCE PREDICTION</p></h1>
+        <lottie-player
+        src="https://assets9.lottiefiles.com/datafiles/HN7OcWNnoqje6iXIiZdWzKxvLIbfeCGTmvXmEm1h/data.json"
+        background="transparent"
+        speed="1"
+        style="width:300px; height: 300px;"
+        loop
+        autoplay
+      ></lottie-player>
+     </section> 
+</div>
+
+<div class="wrapper fadeInDown">
+  <div id="formContent">
+    <!-- Tabs Titles -->
+   <section class="date">
+    <!-- Icon -->
+    <div class="fadeIn first">
+       <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+        <lottie-player
+          src="https://assets6.lottiefiles.com/packages/lf20_TkGfat.json"
+          background="transparent"
+          speed="1"
+          loop
+          style="width: 100px; height: 100px;"
+          autoplay
+        ></lottie-player>
+    </div>
+    <div class="fadeInDown">
+    <form action="{{ url_for('y_predict')}}"method="post">
+      <input type="text" name="Cylinders" placeholder="No.of cylinders (count)" required="required" />
+        <input type="text" name="Displacement" placeholder="Displacement (in miles)" required="required" />
+        <input type="text" name="Horsepower" placeholder="Horsepower (per sec)" required="required" />
+        <input type="text" name="Weight" placeholder="Weight (in pounds)" required="required" />
+        <input type="text" name="Model Year" placeholder="Model Year (YY)" required="required" />
+        <input type="text" name="Origin" placeholder="Origin" required="required" />
+        <br>
+       <input type="submit" class="fadeIn fourth" value="Predict">
+    </form>
+    </section>
+
+    <div id="formFooter">
+      <a class="underlineHover" href="#">
+         <strong>{{ prediction_text }}</strong></a>
+    </div>
+   </div> 
+  </div>
+</div>
+</HTML>
+
+
+
+
+
+
