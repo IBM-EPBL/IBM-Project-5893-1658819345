@@ -1,0 +1,28 @@
+Project Work Flow
+
+      1.   Data Collection
+      2.   Data Pre-processing
+      3.   Model Building
+      4.   Application Building
+
+Tasks:
+     1.   Install Anaconda Navigator.
+     2.   Install Required Libraries.
+     3.   Data Collection.
+          a.Collect the dataset or create the dataset
+     4.   Data Pre-processing.
+          a. Import the Libraries.
+          b. Importing the dataset.
+          c. Checking for Null Values.
+          d. Data Visualization.
+          e. Taking care of Missing Data.
+          f. Label encoding.
+          g. One Hot Encoding.
+          h. Feature Scaling.
+          i.Splitting Data into Train and Test.
+    5.   Model Building
+          a. Training and testing the model
+          b. Evaluation of Model
+    6.   Application Building
+          a. Create an HTML file
+          b. Build a Python Code
