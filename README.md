@@ -1,5 +1,7 @@
 # IBM-Project-5893-1658819345
 Machine Learning based Vehicle Performance Analyzer
+Technology: APPLIED DATA SCIENCE(ADS)
+TEAM ID: PNT2022TMID46974
 Team members: ISWARYA V (TEAM LEAD)
               ABINAYA M
               DIVYA M
@@ -12,8 +14,37 @@ The automotive industry has great expectations from these futuristic solutions t
 
 
 PROJECT WORKFLOW:
-https://github.com/IBM-EPBL/IBM-Project-5893-1658819345/tree/main/Data%20Collection
+Data Collection
+Data preprocessing
+Model Building
+Application Building
 
+TASKS:
+Assessment
+
+PROJECT DESIGN AND PLANNING:
+>IDEATION PHASE
+literature survey.pdf
+Empathy Map Canvas.pdf
+Problem statement.pdf
+Brainstorming.pdf
+
+>PROJECT DESIGN PHASE-I
+Problem Solution Fit.pdf
+Proposed Solution .pdf
+Solution Architecture.pdf
+
+>PROJECT DESIGN PHASE-II
+Customer Journey.pdf
+Solutions Requirements.pdf
+Data Flow Diagrams.pdf
+Technology Stack.pdf
+
+>PROJECT PLANNING
+Project Planning.pdf
+
+PROJECT DEVELOPMENT PHASE:
+Project Development Phase
 
 
 
