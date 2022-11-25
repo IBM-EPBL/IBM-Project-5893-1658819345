@@ -15,5 +15,7 @@ The automotive industry has great expectations from these futuristic solutions t
 
 PROJECT WORKFLOW:
 Data Collection
+Data preprocessing
+
 
 
