@@ -13,8 +13,6 @@ The performance analysis of the car is based on the engine type, no of engine cy
 
 Project Workflow:<br>
 
-<link ref="Data Collection">
-<link ref="Data preprocessing">
 
 
 
