@@ -1,21 +1,45 @@
-# IBM-Project-5893-1658819345
+IBM-Project-5893-1658819345
 Machine Learning based Vehicle Performance Analyzer
-Technology: APPLIED DATA SCIENCE(ADS)
-TEAM ID: PNT2022TMID46974
-Team members: ISWARYA V (TEAM LEAD)
-              ABINAYA M
-              DIVYA M
-              ABIRAMI M
- 
-PROJECT OBJECTIVE:
-1.1 Project Overview
+Technology: Applied Data Science
+Team ID: PNT2022TMID46974
+Team Members:
+NAME	ROLL NUMBER	DEPARTMENT	ASSIGNMENT
+KAVINKUMAR G	190801082	ECE	LINK
+HARIPRASAD R	190801504	ECE	LINK
+HAREESH S	190801055	ECE	LINK
+KARTHIKEYAN A	190801080	ECE	LINK
+Project Desciption:
+Predicting the performance level of cars is an important and interesting problem. The main goal is to predict the performance of the car to improve certain behaviours of the vehicle. This can significantly help to improve the system's fuel consumption and increase efficiency.
 
-The automotive industry has great expectations from these futuristic solutions to improve the safety of people and security of vehicles. It is observed that the users are shifting from individualistic approach to the data-centric approach based on OBD-II scanner to avail the augmented driving experience. In spite of the modern command, control, communication, computers and intelligent systems, we are still facing numerous calamities in which thousands of precious humans lives are lost in accidents. Therefore, it should be an immediate need to tackle the small scale yet serious issues using the state-of-the-art techniques. We are mainly focusing on analyzing the data which is collected from the vehicle using the OBD-II scanner and eventually providing the driver’s safety solutions. We aim to obtain the solutions by observing the blind-spots accurately and efficiently using pattern recognition techniques from supervised learning.
+The performance analysis of the car is based on the engine type, no of engine cylinders, fuel type, horsepower, etc. These are the factors on which the health of the car can be predicted. It is an ongoing process of obtaining, researching, analyzing, and recording health based on the above three factors. The performance objectives like mileage, dependability, flexibility and cost can be grouped together to play a vital role in the prediction engine and engine management system. This approach is a very important step towards understanding the vehicle's performance.
 
+Technical Architecture:
+image
 
-PROJECT WORKFLOW:
+Project Workflow:
 Data Collection
-Data preprocessing
-
+Data Preprocessing
+Model Building
+ Deployment - Click here
+Application Building
+Tasks:
+Assignments
+Project Design & Planning
+Ideation Phase
+ Literature Survey
+ Emapthy Map
+ Ideation
+Project Design Phase 1
+ Proposed Solution
+ Problem Solution Fit
+ Solution Architecture
+Project Design Phase 2
+ Customer Journey
+ Functional Requirement
+ Data Flow Diagram
+ Technology Architecture
+Project Planning Phase
+ Milestone & Activity List
+ Project_Planning
 
 
